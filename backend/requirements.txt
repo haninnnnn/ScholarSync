@@ -16,7 +16,7 @@ sentence-transformers==3.0.1
 chromadb==0.5.3
 
 # LLM API
-groq==0.9.0               # Groq Python SDK
+groq==1.5.0               # Groq Python SDK
 
 # Utilities
 python-dotenv==1.0.1      # load .env files
